@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Reddit-Scraper", "Reddit-Scraper\Reddit-Scraper.pyproj", "{DFA992D3-CC70-4414-A163-FA55E740B3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA992D3-CC70-4414-A163-FA55E740B3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA992D3-CC70-4414-A163-FA55E740B3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98B36B0A-07D7-4F86-BF4E-A63C949D2EE3}
+	EndGlobalSection
+EndGlobal

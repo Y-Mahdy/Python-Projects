@@ -1,0 +1,337 @@
+1512931568699	geckodriver	INFO	geckodriver 0.19.0
+1512931568709	geckodriver	INFO	Listening on 127.0.0.1:61965
+1512931570856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MENNAT~1\\AppData\\Local\\Temp\\rust_mozprofile.DbhL29zLJcLz"
+1512931690516	geckodriver	INFO	geckodriver 0.19.0
+1512931690525	geckodriver	INFO	Listening on 127.0.0.1:62180
+1512931692573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MENNAT~1\\AppData\\Local\\Temp\\rust_mozprofile.0cj8W0ma5e3n"
+1512931694879	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1512931702971	Marionette	INFO	Listening on port 62188
+1512931703699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512931703832	Marionette	DEBUG	Register listener.js for window 4294967297
+1512931703965	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512931705242	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512931705242	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+[GFX1-]: Could not get a DXGI adapter
+1512931718182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512931718260	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512931724625	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppDa1512931750069	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+1512931754614	Marionette	INFO	Listening on port 62470
+1512931754929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512931754998	Marionette	DEBUG	Register listener.js for window 4294967297
+1512931755033	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512931756384	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512931756384	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512931772462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/"
+1512931797308	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/"
+1512931803607	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512931804066	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512931804067	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512931804068	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512931804148	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=https%3A//www.etac.comhttps//www.etac.com/products/bathing-showering/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.etac.comhttps."
+[Parent 6740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+d 17120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512931855079	Marionette	INFO	Listening on port 62975
+1512931855947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512931856018	Marionette	DEBUG	Register listener.js for window 4294967297
+1512931856044	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512931857624	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512931857625	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512931871840	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/"
+1512931875272	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/"
+1512931882397	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512931882724	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512931882725	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512931883626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512931883628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512931886541	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+1512931903780	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/bathing-showering/"
+1512931904281	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/bathing-showering/"
+1512931904282	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/bathing-showering/"
+1512931904489	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512931904699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512931910470	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512931971882	Marionette	DEBUG	Register listener.js for window 4294967307
+1512931971923	Marionette	DEBUG	Register listener.js for window 4294967309
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+7
+1512932133265	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512932134571	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512932134572	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512932148536	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/"
+1512932152150	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/"
+1512932163353	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512932163687	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512932163687	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512932165674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512932165690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512932171199	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+1512932180427	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/bathing-showering/"
+1512932180834	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/bathing-showering/"
+1512932180834	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/bathing-showering/"
+1512932181082	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512932181276	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512932188998	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ette	INFO	Enabled via --marionette
+1512932259789	Marionette	INFO	Listening on port 63736
+1512932260341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512932260415	Marionette	DEBUG	Register listener.js for window 4294967297
+1512932260722	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512932261862	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512932261862	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512932269170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/"
+1512932350285	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/"
+1512932795461	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512932796236	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512932796237	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512932797408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512932797434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512932800402	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+1512932806349	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/bathing-showering/"
+1512932806790	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/bathing-showering/"
+1512932806790	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/bathing-showering/"
+1512932807107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512932807312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512932813778	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child1512933021395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MENNAT~1\\AppData\\Local\\Temp\\rust_mozprofile.W0Oc833xcuFK"
+1512933022515	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512933027053	Marionette	INFO	Listening on port 64943
+1512933027478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512933027559	Marionette	DEBUG	Register listener.js for window 4294967297
+1512933027593	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512933029033	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512933029033	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512933034256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/"
+1512933065164	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/"
+1512933071361	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512933071691	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512933071691	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512933075368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512933075391	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512933077735	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+1512933077792	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/bathing-showering/"
+1512933078267	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/bathing-showering/"
+1512933078267	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/bathing-showering/"
+1512933078501	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512933078697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512933084873	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512933189562	Marionette	INFO	Listening on port 65159
+1512933189797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512933189859	Marionette	DEBUG	Register listener.js for window 4294967297
+1512933189921	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512933191356	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512933191356	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512933194674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/"
+1512933204861	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/"
+1512933204939	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512933205255	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512933205256	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512933207440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512933207474	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512933209831	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+1512933209896	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/bathing-showering/"
+1512933210377	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/bathing-showering/"
+1512933210377	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/bathing-showering/"
+1512933210580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512933210760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512933218639	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	INFO	Enabled via --marionette
+1512933288376	Marionette	INFO	Listening on port 65330
+1512933288437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512933288512	Marionette	DEBUG	Register listener.js for window 4294967297
+1512933288964	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512933290283	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512933290283	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512933299281	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/"
+1512933306480	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/"
+1512933306552	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512933306875	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512933306875	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512933310591	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512933310614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512933313262	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+1512933313322	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/bathing-showering/"
+1512933313754	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/bathing-showering/"
+1512933313755	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/bathing-showering/"
+1512933314020	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512933314322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512933322079	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512933709020	Marionette	DEBUG	Register listener.js for window 4294967308
+1512933709111	Marionette	DEBUG	Register listener.js for window 4294967310
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ 346
+1512934008806	Marionette	INFO	Listening on port 49443
+1512934009135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512934009215	Marionette	DEBUG	Register listener.js for window 4294967297
+thread '<unnamed>' panicked at 'called `Result::unwrap()` on an `Err` value: Error { repr: Os { code: 10054, message: "An existing connection was forcibly closed by the remote host." } }', src\libcore\result.rs:860:4
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512934178003	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1512934178005	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+arionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512934171301	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512934171302	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512934173957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512934173993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512934177043	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+1512934177104	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/bathing-showering/"
+1512934177545	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/bathing-showering/"
+1512934177546	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/bathing-showering/"
+1512934178085	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512934178435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512934197153	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8372, ChromeUnable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14468, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ommon/ipc_channel_win.cc, line 346
+[Child 14468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512934280534	Marionette	INFO	Listening on port 49823
+1512934280589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512934280658	Marionette	DEBUG	Register listener.js for window 4294967297
+1512934280809	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512934282350	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512934282350	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512934287357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/"
+1512934309901	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/"
+1512934309971	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512934310308	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512934310309	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512934313630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512934313644	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512934316950	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+1512934317011	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/bathing-showering/"
+1512934317413	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/bathing-showering/"
+1512934317414	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/bathing-showering/"
+1512934317824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512934318061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512934376082	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+0206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512934600293	Marionette	DEBUG	Register listener.js for window 4294967297
+1512934600325	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512934602105	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512934602105	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512934606465	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/"
+1512934632533	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/"
+1512934632613	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512934633299	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512934633299	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512934642393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512934642425	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512934669365	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+1512934669433	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/bathing-showering/"
+1512934669829	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/bathing-showering/"
+1512934669830	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/bathing-showering/"
+1512934675647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512934676022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512934682857	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+ionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512934876017	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512934887217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/"
+1512934895561	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/"
+1512934895606	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/"
+1512934895924	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/"
+1512934895924	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/"
+1512934898314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/"
+1512934898318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512934901232	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/"
+1512934901299	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.etac.com/products/bathing-showering/"
+1512934901682	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.etac.com/products/bathing-showering/"
+1512934901683	Marionette	DEBUG	Received DOM event "unload" for "https://www.etac.com/products/bathing-showering/"
+1512934902314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+1512934902322	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512934919653	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.etac.com/products/bathing-showering/etac-relax-shower-seat/"
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\MennatullahSobhy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
